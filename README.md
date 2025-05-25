@@ -2,6 +2,12 @@
 
 A Chrome extension that allows users to dynamically adjust webpage zoom levels with a beautiful, modern interface.
 
+<div align="center">
+  <img src="showcase.gif" alt="Dynamic Webpage Scaler in action" width="300">
+  <br>
+  <em>Dynamic zoom level adjustment with a beautiful UI</em>
+</div>
+
 ## Features
 
 - Dynamic zoom level adjustment with a smooth slider
