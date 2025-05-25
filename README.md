@@ -40,7 +40,7 @@ Feel free to submit issues and enhancement requests!
 
 ## License
 
-MIT License - feel free to use this project for your own purposes.
+GPL-2.0 license - feel free to use this project for your own purposes but not to distribute commercially.
 
 ## Author
 
